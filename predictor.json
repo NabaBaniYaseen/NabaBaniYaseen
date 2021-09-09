@@ -1,0 +1,62 @@
+{
+  "Predictor": {
+    "definition_id": "",
+    "Robot_Run_Time_ID": "  ",
+    "RobotName": "",
+    "digital_twin_name": "",
+    "digital_twin_definition_ID": "",
+    "digital_twin_runtime_ID": "",
+    "description": "",
+    "category": "",
+    "properties": {
+      "Functions": [
+        {
+          "input": [
+            {
+              "name": "  ",
+              "type": " ",
+              "label": "",
+              "value": ""
+            }
+          ],
+          "output": {
+            "name": "  ",
+            "type": " ",
+            "label": "  ",
+            "value": "  "
+          },
+          "operation_type": " ",
+          "operation_value": " ",
+          "operation_location": "",
+          "APIName": "  ",
+          "Parameters": [
+            {
+              "Type": "  ",
+              "Name": "   ",
+              "Value": "   "
+            }
+          ],
+          "APIURL": "  ",
+          "Return Value": {
+            "Name": "    ",
+            "Type": "   ",
+            "Value": "   "
+          },
+          "internal_algorithm": {
+            "internal_algorithm_id": "  ",
+            "internal_algorithm_name": "  "
+          },
+          "user_defined_algorithm": {
+            "user_defined_algorithm_id": "  ",
+            "user_defined_algorithm_name": "  ",
+            "user_defined_algorithm_location": "  "
+          },
+          "Actions": {
+            "action_name": "",
+            "action_id": "",
+          }
+        }
+      ]
+    }
+  }
+}

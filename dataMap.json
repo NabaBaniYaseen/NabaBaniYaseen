@@ -1,0 +1,30 @@
+    "Data_Map": {
+    "Data_Map_Name":" ",
+    "Data_Map": [
+      {
+        "input": [
+          {
+            "type": " "
+          }
+        ],
+        "output": [
+          {
+            "name": "  ",
+            "type": " ",
+            "label": "  "
+          }
+        ],
+        "operation_type": " ",
+        "operation_value": " ",
+        "operation_location": " ",
+        "internal_algorithm": {
+          "internal_algorithm_id": "  ",
+          "internal_algorithm_name": "  "
+        },
+        "user_defined_algorithm": {
+          "user_defined_algorithm_id": "  ",
+          "user_defined_algorithm_name": "  ",
+          "user_defined_algorithm_location": "  "
+        }
+      }
+    ]}}

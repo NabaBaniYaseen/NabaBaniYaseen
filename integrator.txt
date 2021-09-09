@@ -1,0 +1,135 @@
+{
+    "Integrator": {
+        "definition_id": "  ",
+        "Robot_Run_Time_ID": "  ",
+        "RobotName": "",
+        "digital_twin_name": " ",
+        "digital_twin_definition_ID": "",
+        "digital_twin_runtime_ID": "",
+        "description": " ",
+        "Category": "",
+        
+      "properties": {
+        "external_system": [
+          {
+            "AdapterType": " ",        
+            "APItype": " ",
+            "External_System_Name": "",
+            
+            "SOAPParam":
+          {
+            "WSDL": "    ",
+            "XML": "    ",
+            "SOAPAction": "    "
+          },
+            
+            "RESTParam" :
+          {
+            "requestParam": "    ",
+            "requestParamType": "    ",
+            "External_System_URL": "",
+                        
+            "username": "  ",
+            "password": "  "
+           },
+            
+            "GenericAPIParam" :
+          {
+            "requestParam": "    ",
+            "requestParamType": "    ",
+            "Authflag": "    ",
+            "protocol": "  ",
+            "IPAddress": "    ",
+            "port": "    ",
+            "APICallPath": "    ",
+                       
+            "username": "  ",
+            "password": "  "
+            
+          },
+                    
+            "Return Value": {
+              "Name": "    ",
+              "Type": "   ",
+              "Value": "   "
+            }
+           
+          }
+        ],
+        
+        "External_data_source_type": [
+          {
+            "Name": "    ",
+            "Type": "    "
+          }
+        ],
+        
+        "Interface_param_DB": [
+          {
+            "Parameters": [
+              {                
+                "name": " ",
+                "pluginId": " ",
+                "accessType": " ",       
+			    "hostName": " ",
+			    "DBName": " ",
+			    "portNumber": " ",
+			    "username": " ", 
+			    "password": " ",
+			    "SQL": " ",
+			    			
+                "ReturnValueForSqlStatment": [
+                  {
+                    "ColumnName": "",
+                    "ColumnValue": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        
+        "Interface_param_JSON": [
+          {
+            "Parameters": [
+              {
+                "Name": "    ",
+                "Location": "   ",
+                "Value": "   "
+              }
+            ]
+          }
+        ],
+        
+        "Interface_param_EXCEL": [
+          {
+            "Parameters": [
+              {
+                "Name": "    ",
+                "Location": "   ",
+                "Category": "   ",              
+                "Value": "   "
+              }
+            ]
+          }
+        ],
+        "Interface_param_File": [
+          {
+            "Parameters": [
+              {
+                "Name": "    ",
+                "Location": "   ",
+                "Category": "   ",
+                "Value": "   "
+              }
+            ]
+          }
+        ],
+        
+        "Data_Map": 
+          {
+            "Data_Map_Name": ""
+          }
+      }
+    }
+}

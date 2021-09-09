@@ -1,0 +1,30 @@
+{
+	"id": "",
+	"Algorithm_name": "  ",
+	"Algorithm_type": "   ",
+	"description": "",
+
+	"properties": {
+
+		"Data": [{
+			"Data_fields_defination_id": "  "
+		}],
+		"Arithmetic_function": [{
+			"Parameters": [{
+				"Type": "  ",
+				"Name": "   ",
+				"Value": "   "
+			}],
+			"operation": [{
+				"syntax": "   "
+			}],
+			"Return Value": [{
+				"Name": "    ",
+				"Type": "   ",
+				"Value": "   "
+			}]
+		}],
+		"Input_data_label": "  ",
+		"output_data_label": "  "
+	}
+}

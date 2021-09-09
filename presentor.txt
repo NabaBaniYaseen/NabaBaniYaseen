@@ -1,0 +1,27 @@
+{
+	"definition_id": "  ",
+	"Robot_Run_Time_ID": "  ",
+	"RobotName": "",
+	"digital_twin_name": " ",
+	"digital_twin_definition_ID": "",
+	"digital_twin_runtime_ID": "",
+	"description": " ",
+	"Category": "",
+	"Presentor": {
+		"digital_twin": [{
+			"digital_twin_run_time_id": "",
+			"name":""
+		}],
+		"parameter": [{
+			"name": "",
+			"value": ""
+		}],
+		"type": "",
+		"format":"",
+		"refresh_rate": "",
+		"name":"",
+		"data_source_name":"",
+		"data_source_url":"",
+		"store_way":"database or file system"
+	}
+}

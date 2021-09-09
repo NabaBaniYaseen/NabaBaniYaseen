@@ -1,0 +1,48 @@
+{
+	"event_id": "",
+        "event_runtime_ID":'',
+	"event_name": "",
+	"description": "",
+	"type": "",
+	"properties": {
+		 "robot_definition_ID": "  ",
+                 "robot_runtime_ID": "  ",
+                 "robot_name": "  ",
+                 "DT_definition_ID": "  ",
+                 "DT_runtime_ID": "  ",
+                 "DT_name": "  ",
+
+		"event_date":"",
+                "event_frequency":"",
+                "event_time":[{
+                     "time":""
+                     }]
+
+                "event_external_system": {
+ 			"Name": "  ",
+                        "SystemType": "  ",
+			"APIName": "  ",
+                        "APItype":"",
+			"Parameters": [{
+				"Type": "  ",
+				"Name": "   ",
+				"Value": "   "
+			}],
+			"APIURL": "  ",
+			"Return Value": {
+				"Name": "    ",
+				"Type": "   ",
+				"Value": "   "
+			}
+                       
+                       "external_system_URL": "",
+			
+		       "External_system_interface_type": "",
+                       "External_system_interface_commercial_name": ""
+			
+		},
+
+		
+		"Event_action_type": "  "
+	}
+}

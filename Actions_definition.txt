@@ -1,0 +1,154 @@
+{
+	"Action": {
+		"id": "",
+		"robot_runtime_ID": "",
+		"action_name": "",
+		"action_type": "",
+		"action_input_prameters": [{
+			"name": "  ",
+			"type": " ",
+			"label": ""
+		}],
+		"excute_robot": {
+			"robot_definition_id": "",
+			"robot_name": "",
+			"robot_type": ""
+		},
+		"excute_digital_twin": {
+			"digital_twin_id": "",
+			"digital_twin_name": ""
+		},
+		"external_system": {
+			"AdapterType": " ",
+			"APItype": " ",
+			"External_System_Name": "",
+
+			"SOAPParam": {
+				"WSDL": "    ",
+				"XML": "    ",
+				"SOAPAction": "    "
+			},
+
+			"RESTParam": {
+				"requestParam": "    ",
+				"requestParamType": "    ",
+				"External_System_URL": "",
+
+				"username": "  ",
+				"password": "  "
+			},
+
+			"GenericAPIParam": {
+				"requestParam": "    ",
+				"requestParamType": "    ",
+				"Authflag": "    ",
+				"protocol": "  ",
+				"IPAddress": "    ",
+				"port": "    ",
+				"APICallPath": "    ",
+
+				"username": "  ",
+				"password": "  "
+
+			},
+
+			"Return Value": {
+				"Name": "    ",
+				"Type": "   ",
+				"Value": "   "
+			}
+
+		},
+		"Email": {
+
+			"MS_Exchange": {
+				"host_name": "",
+				"domain": "",
+				"username": "",
+				"password": "",
+				"recepient_To": "",
+				"recepient_Cc": "",
+				"recepient_Bcc": "",
+				"attachment_locations": "",
+				"subject": "",
+				"message": ""
+			},
+
+			"SMTP/POP3": {
+				"SMTP_host_name": "",
+				"POP3_host_name": "",
+				"username": "",
+				"password": "",
+				"recepient_To": "",
+				"attachment_locations": "",
+				"subject": "",
+				"message": ""
+			}
+
+		},
+		"SMS": {
+
+			"Twilio": {
+
+				"account_SID": "",
+				"auth_token": "",
+				"user_phone_number": "",
+				"recepient_phone_number": "",
+				"message": ""
+			},
+
+			"Nexmo": {
+				"API_key": "",
+				"API_secret": "",
+				"brand_name": "",
+				"message": ""
+			}
+		},
+		"POST-Database": {
+			"name": " ",
+			"pluginId": " ",
+			"accessType": " ",
+			"hostName": " ",
+			"DBName": " ",
+			"portNumber": " ",
+			"username": " ",
+			"password": " ",
+			"Update_SQL": " "
+		},
+
+		"POST-Web-Server": {
+			"url": "",
+			"content_type": "",
+			"parameters": "",
+			"username": "",
+			"password": ""
+
+		},
+
+		"POST-Social-Media": {
+			"twitter": {
+				"consumer_key": "",
+				"consumer_key_secret": "",
+				"access_token": "",
+				"access_token_secret": "",
+				"status_update": ""
+			},
+
+			"facebook": {
+				"page_access_token": "",
+				"message": "",
+				"image_location": ""
+			},
+			"instagram": {
+				"user_access_token": "",
+				"media_type": "",
+				"media_url": "",
+				"user_tags": [{
+					"username": "",
+					"x-axis": "",
+					"y-axis": ""
+				}]
+			}
+		}
+	}
+}

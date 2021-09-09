@@ -1,0 +1,67 @@
+{
+  "digital_twin_id": "",
+  "digital_twin_runtime_id": "",
+  "digital_twin_name": "",
+
+  "properties": {
+
+    "Organization_Name": "  ",
+    "Department_name": "  ",
+    "DT_Description": "  ",
+    "DT_category_type": "  ",
+    "DT_privacy": "  ",
+
+    "DT_priority": "",
+    "Duplicate": "  ",
+    "Robots": [
+      {
+        "Name": "",
+        "robot_deinition_id": "",
+        "robot_runtime_id": "",
+        "robot_sequence": "",
+        "RobotType": ""
+      }
+    ],
+    "Next_Digital_Twin": {
+      "Name": "",
+      "definition_id": " ",
+      "sequence": ""
+    },
+    "Event": {
+      "event_type": "",
+      "time_event": {
+        "by_date": [
+          {
+            "event_date": "",
+            "event_time": ""
+          }
+        ],
+        "by_day": {
+          "event_day": "",
+          "event_frequency": "",
+          "event_time": ""
+        }
+      },
+      "event_external_system": {
+        "Name": "  ",
+        "SystemType": "  ",
+        "Parameters": [
+          {
+            "Type": "  ",
+            "Name": "   ",
+            "Value": "   "
+          }
+        ],
+        "Return Value": {
+          "Name": "    ",
+          "Type": "   ",
+          "Value": "   "
+        }
+      },
+      "Event_action_type": "  "
+    },
+
+    "Prior_DT_ID": "  ",
+    "Next_DT_ID": "  "
+  }
+}

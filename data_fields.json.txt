@@ -1,0 +1,38 @@
+{
+	"data_map_id": "",
+        "data_map_runtime_id":"",
+
+	"name": "",
+	"description": "",
+	"type": "",
+	"properties": {
+		[{
+			
+				"input":[{
+                                   "name":"  ",
+                                   "type":" ",
+                                 }]
+                                "output":[{
+                                   "name":"  ",
+                                   "type":" ",
+                                   "label":"  "
+                                 }]
+                                
+				
+				"operation_type": " ",
+                                "operation_value":" ",
+                                "operation_location":" ",
+
+                                "internal_algorithm":{
+                                "internal_algorithm_id":"  ",
+                                "internal_algorithm_name":"  "
+                                 },
+                                "user_defined_algorithm":{
+                                "user_defined_algorithm_id":"  ",
+                                "user_defined_algorithm_name":"  ",
+                                "user_defined_algorithm_location":"  "
+                                 },
+			
+		}]
+	}
+}
