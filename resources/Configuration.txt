@@ -1,0 +1,5 @@
+DBManagerMaxPoolSize = 100
+DBManagerCorePoolSize = 100 
+DBManagerQueueCapacity = 100
+DBManagerThreadNamePrefix = "Thread-"
+
